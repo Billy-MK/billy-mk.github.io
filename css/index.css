@@ -28,3 +28,15 @@
 body {
     background-color: rgb(211, 211, 211);
 }
+
+.contact {
+    background-color:black;
+    opacity: 80%;
+    color:rgb(221, 221, 221);
+}
+
+.article {
+    max-width: 100%;
+    margin:40px;
+    border: 1px solid darkslategray;
+}
