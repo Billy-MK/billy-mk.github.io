@@ -33,10 +33,15 @@ body {
     background-color:black;
     opacity: 80%;
     color:rgb(221, 221, 221);
+    text-align: center;
 }
 
 .article {
     max-width: 100%;
     margin:40px;
     border: 1px solid darkslategray;
+}
+
+.card-text {
+    font-size: larger;
 }
