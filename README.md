@@ -15,7 +15,15 @@ Link to webpage: billy-mk.github.io
 ## Images:
 
 ```md
-![
+![Home at 400px](./assets/screenshots/Index_400px.jpg)
+![Portfolio at 400px](./assets/screenshots/Portfolio_400px.jpg)
+![Contact at 400px](./assets/screenshots/Contact_400px.jpg)
+![Home at 768px](./assets/screenshots/Index_768px.jpg)
+![Portfolio at 768px](./assets/screenshots/Portfolio_768px.jpg)
+![Contact at 768px](./assets/screenshots/Contact_768px.jpg)
+![Home at 992px](./assets/screenshots/Index_992px.jpg)
+![Portfolio at 992px](./assets/screenshots/Portfolio_992px.jpg)
+![Contact at 992px](./assets/screenshots/Contact_992px.jpg)
 
 ## Credits
 
