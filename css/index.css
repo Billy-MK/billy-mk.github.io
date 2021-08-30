@@ -39,20 +39,32 @@
     border: 2px solid #2b7ab8;
     color: #2b7ab8;
   }
-  .button:hover {
-    color: #fff;
-  }
-  .button:hover:after {
-    width: 100%;
-  }
-  .button:after {
-    content: "";
-    position: absolute;
-    z-index: -1;
-    transition: all 0.3s ease;
-    left: 0;
-    top: 0;
-    width: 0;
-    height: 100%;
-    background: #2b7ab8;
-  }
+.button:hover {
+color: #fff;
+}
+.button:hover:after {
+width: 100%;
+}
+.button:after {
+content: "";
+position: absolute;
+z-index: -1;
+transition: all 0.3s ease;
+left: 0;
+top: 0;
+width: 0;
+height: 100%;
+background: #2b7ab8;
+}
+
+.header-sub {
+    font-weight: 700;
+    color:rgb(63, 63, 63);
+}
+
+.title {
+    text-align: center;
+    margin-top: 2em;
+    font-weight: bold;
+    color:rgb(63, 63, 63);
+}
