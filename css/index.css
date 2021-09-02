@@ -73,9 +73,23 @@ background: #2b7ab8;
     box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
     border: 1px solid rgb(228, 228, 228);
     height: 100%;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
 }
 
 .card-title {
     color:rgb(63, 63, 63);
-    font-weight: 700;
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.about {
+    color:rgb(63, 63, 63);
+    font-size: 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.card-img-top {
+    height: 50%;
 }
