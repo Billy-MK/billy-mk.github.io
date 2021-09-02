@@ -68,3 +68,8 @@ background: #2b7ab8;
     font-weight: bold;
     color:rgb(63, 63, 63);
 }
+
+.card {
+    box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
+    border: 1px solid rgb(228, 228, 228);
+}
