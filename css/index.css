@@ -75,6 +75,7 @@ background: #2b7ab8;
     height: 100%;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
+    transition: transform 0.2s;
 }
 
 .card-title {
@@ -92,4 +93,14 @@ background: #2b7ab8;
 
 .card-img-top {
     height: 50%;
+}
+
+.card:hover {
+    transform: translateY(-7px);
+}
+
+.skills {
+    max-width: 500px;
+    margin: auto;
+    display: flex;
 }
