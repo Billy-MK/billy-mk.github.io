@@ -9,6 +9,13 @@ body {
 }
 
 .nav-link {
+    padding-right: 0rem !important;
+    padding-left: 0rem !important;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+.nav-link {
     color: rgb(109, 109, 109);
     font-weight: 500;
     font-size: 1.1em;
