@@ -50,22 +50,25 @@ body {
     border: 2px solid #2b7ab8;
     color: #2b7ab8;
   }
+
 .button:hover {
-color: #fff;
+    color: #fff;
 }
+
 .button:hover:after {
-width: 100%;
+    width: 100%;
 }
+
 .button:after {
-content: "";
-position: absolute;
-z-index: -1;
-transition: all 0.3s ease;
-left: 0;
-top: 0;
-width: 0;
-height: 100%;
-background: #2b7ab8;
+    content: "";
+    position: absolute;
+    z-index: -1;
+    transition: all 0.3s ease;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 100%;
+    background: #2b7ab8;
 }
 
 .header-sub {
@@ -83,7 +86,7 @@ background: #2b7ab8;
 .card {
     box-shadow: rgba(100,100,111,0.2) 0px 7px 29px 0px;
     border: 1px solid rgb(228, 228, 228);
-    height: 100%;
+    min-height: 100%;
     font-family: 'Raleway', sans-serif;
     font-weight: bold;
     transition: transform 0.2s;
