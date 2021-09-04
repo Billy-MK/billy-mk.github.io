@@ -118,6 +118,7 @@ background: #2b7ab8;
     margin-right: 10px;
     margin-top: 10px;
     transition: transform 0.2s;
+    background-color: white;
 }
 
 .text {
